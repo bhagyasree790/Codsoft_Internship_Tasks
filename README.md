@@ -22,22 +22,57 @@ To explore and understand the Titanic dataset, perform necessary data cleaning a
 - **K-Nearest Neighbors (KNN)**  
   Used to classify passengers based on similarity in feature space.
 
-## 📁 Project Structure
 
 
 
+# 🤖 Task-2: Credit Card Fraud Detection
 
-🤖Task-2: CREDIT CARD FRAUD DETECTION
-  🧐Objective: The objective of this project is to develop an effective machine learning model for the identification of fraudulent credit card transactions. The key tasks include preprocessing and normalizing the transaction data, addressing class imbalance issues, and implementing a classification algorithm, such as logistic regression or random forests, to accurately classify transactions as either fraudulent or genuine. The project aims to achieve the following specific goals:
-      - Data Preprocessing and Normalization
-      - Handling Class Imbalance
-      - Dataset Splitting
-      - Model Selection and Training
-      - Performance Evaluation
-  📊Dataset: Credit Card Fraud Detection Dataset
-  🛠 Tools: Google Colab, Python, Anaconda
-  📚 Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
-  💡 ML Algorithm: LogisticRegression, IsolationForest, LocalOutlierFactor, K-Nearest Neighbors        
+## 🧐 Objective
+The goal of this project is to develop a robust machine learning model capable of identifying **fraudulent credit card transactions**. The major steps involve:
+
+- 🔄 **Data Preprocessing and Normalization**  
+- ⚖️ **Handling Class Imbalance**  
+- ✂️ **Dataset Splitting**  
+- 🧠 **Model Selection and Training**  
+- 📊 **Performance Evaluation**
+
+The aim is to accurately classify transactions as either **fraudulent** or **genuine**, even with highly imbalanced data.
+
+---
+
+## 📊 Dataset
+- **Name**: Credit Card Fraud Detection Dataset  
+- **Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
+- **Details**: Contains transactions made by European cardholders in September 2013, with 492 frauds out of 284,807 transactions.
+
+---
+
+## 🛠 Tools Used
+- **Platform**: Google Colab  
+- **Environment**: Anaconda  
+- **Language**: Python  
+
+---
+
+## 📚 Libraries Used
+- `pandas` – Data manipulation  
+- `numpy` – Numerical computing  
+- `matplotlib` & `seaborn` – Data visualization  
+- `sklearn` – Machine learning models and evaluation metrics  
+
+---
+
+## 💡 Machine Learning Algorithms
+- **Logistic Regression**
+- **K-Nearest Neighbors (KNN)**
+- **Isolation Forest**
+- **Local Outlier Factor (LOF)**
+
+Each model is trained and evaluated to compare performance, especially under imbalanced conditions.
+
+---
+
+    
 
 
 
