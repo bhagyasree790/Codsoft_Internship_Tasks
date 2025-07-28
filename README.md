@@ -1,9 +1,29 @@
-🚢 Task-1: Titanic Survival Prediction
-      🧐Objective: Understand the Dataset & cleanup (if required) and then build a classification model to predict whether the passenger survives or not.
-      📊Dataset: Titanic Dataset
-      🛠 Tools: Google Colab, Python, Anaconda
-      📚 Libraries: Pandas, Numpy, Matplotlib, Seaborn
-      💡 ML Algorithm: K-Nearest Neighbors
+# 🚢 Titanic Survival Prediction - Task 1
+
+## 🧐 Objective
+To explore and understand the Titanic dataset, perform necessary data cleaning and preprocessing, and build a **classification model** using the **K-Nearest Neighbors (KNN)** algorithm to predict whether a passenger survived or not.
+
+## 📊 Dataset
+- **Source**: Titanic Dataset (commonly from [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic))
+- Contains information like passenger demographics, ticket class, fare, etc.
+
+## 🛠 Tools Used
+- **Platform**: Google Colab  
+- **Environment**: Anaconda  
+- **Language**: Python  
+
+## 📚 Libraries Used
+- `pandas` – Data manipulation & analysis  
+- `numpy` – Numerical operations  
+- `matplotlib` – Data visualization  
+- `seaborn` – Statistical data visualization  
+
+## 💡 Machine Learning Algorithm
+- **K-Nearest Neighbors (KNN)**  
+  Used to classify passengers based on similarity in feature space.
+
+## 📁 Project Structure
+
 
 
 
