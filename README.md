@@ -130,7 +130,7 @@ All models are trained, tested, and compared to find the most suitable one for r
 ---
 
 ## 📈 Results
-Achieved a recall of **XX%** and precision of **YY%** on detecting fraudulent transactions using the best-performing model. *(Update after testing)*
+
 
 ---
 
