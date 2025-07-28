@@ -22,7 +22,8 @@ To explore and understand the Titanic dataset, perform necessary data cleaning a
 - **K-Nearest Neighbors (KNN)**  
   Used to classify passengers based on similarity in feature space.
 
-
+---
+---
 
 
 # 🤖 Task-2: Credit Card Fraud Detection
@@ -70,15 +71,72 @@ The aim is to accurately classify transactions as either **fraudulent** or **gen
 
 Each model is trained and evaluated to compare performance, especially under imbalanced conditions.
 
+---    
 ---
 
-    
+
+# 📑 Task-3: Sales Prediction
+
+## 🤓 Objective
+This project aims to build a **concise and effective sales prediction model** using machine learning techniques in Python. It involves:
+
+- 📈 Collecting and exploring sales-related data  
+- 🧹 Performing data preprocessing to ensure quality  
+- 🧠 Training models to predict future sales based on advertising expenditure and audience segmentation  
+- 🧩 Integrating the trained model for **business decision-making**, **ad strategy optimization**, and **efficient resource allocation**
+
+---
+
+## 📊 Dataset
+- **Name**: Sales Prediction Dataset  
+- **Type**: Tabular dataset containing advertising budgets and corresponding sales  
+- **Focus**: Simple Linear Regression scenario (e.g., TV Ad Spend vs Sales)  
+- **Source**: Custom/pre-loaded in ML tutorials (e.g., from CSV)
+
+---
+
+## 🛠 Tools Used
+- **Platform**: Google Colab  
+- **Environment**: Anaconda  
+- **Language**: Python  
+
+---
+
+## 📚 Libraries Used
+- `pandas` – Data loading and preprocessing  
+- `numpy` – Numerical operations  
+- `matplotlib` & `seaborn` – Data visualization  
+- `sklearn` – Model building and evaluation  
+
+---
+
+## 💡 Machine Learning Algorithms
+- **Linear Regression**  
+- **Decision Trees**  
+- **K-Nearest Neighbors (KNN)**  
+- **Support Vector Machines (SVM)**  
+
+All models are trained, tested, and compared to find the most suitable one for real-world sales forecasting.
+
+---
+
+## 🚀 Workflow
+1. **Exploratory Data Analysis (EDA)** – Understand distribution and correlations.
+2. **Preprocessing** – Normalize/scale features and handle missing data.
+3. **Handling Imbalance** – Techniques like undersampling, oversampling, SMOTE.
+4. **Model Training** – Train models like Logistic Regression, KNN, Isolation Forest, LOF.
+5. **Evaluation** – Accuracy, Precision, Recall, F1-Score, AUC-ROC.
+
+---
+
+## 📈 Results
+Achieved a recall of **XX%** and precision of **YY%** on detecting fraudulent transactions using the best-performing model. *(Update after testing)*
+
+---
+
+## 🙌 Acknowledgements
+Dataset provided by Codsoft
+
+---
 
 
-
-📑Task-3: Sales Prediction
-  🤓Objective: The objective of this project is to develop a concise and effective sales prediction model using machine learning in Python. This involves collecting and exploring relevant data on sales, advertising expenditure, and audience segmentation, followed by preprocessing steps to ensure data quality. The ultimate goal is to integrate the trained model into business systems, providing a practical tool for forecasting sales, optimizing advertising strategies, and enabling efficient resource allocation.
-  📊Dataset: Sales Prediction (Simple Linear Regression)
-  🛠 Tools: Google Colab, Python, Anaconda
-  📚 Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
-  💡 ML Algorithm: Linear Regression, Decision Trees, K-nearest Neighbors, Support Vector Machines
