@@ -4,7 +4,7 @@
 To explore and understand the Titanic dataset, perform necessary data cleaning and preprocessing, and build a **classification model** using the **K-Nearest Neighbors (KNN)** algorithm to predict whether a passenger survived or not.
 
 ## 📊 Dataset
-- **Source**: Titanic Dataset (commonly from [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic))
+- **Source**: Titanic Dataset (https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - Contains information like passenger demographics, ticket class, fare, etc.
 
 ## 🛠 Tools Used
@@ -43,9 +43,7 @@ The aim is to accurately classify transactions as either **fraudulent** or **gen
 
 ## 📊 Dataset
 - **Name**: Credit Card Fraud Detection Dataset  
-- **Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
-- **Details**: Contains transactions made by European cardholders in September 2013, with 492 frauds out of 284,807 transactions.
-
+- **Source**: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ---
 
 ## 🛠 Tools Used
@@ -91,8 +89,7 @@ This project aims to build a **concise and effective sales prediction model** us
 - **Name**: Sales Prediction Dataset  
 - **Type**: Tabular dataset containing advertising budgets and corresponding sales  
 - **Focus**: Simple Linear Regression scenario (e.g., TV Ad Spend vs Sales)  
-- **Source**: Custom/pre-loaded in ML tutorials (e.g., from CSV)
-
+- **Source**: https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
 ---
 
 ## 🛠 Tools Used
